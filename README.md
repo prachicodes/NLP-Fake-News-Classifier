@@ -8,8 +8,7 @@ Machine learning algorithms/ models used:
 3. Logistic Regression
 
 
-Accurcay of indiviual models:
-
-Naive Bayes: 0.902
-Passive Aggressive Classifier: 0.901
-Logistic Regression: 0.918
+Accuracy of indiviual models:
+1. Naive Bayes: 0.902
+2. Passive Aggressive Classifier: 0.901
+3. Logistic Regression: 0.918
